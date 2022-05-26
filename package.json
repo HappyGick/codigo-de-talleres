@@ -1,0 +1,20 @@
+{
+  "name": "codigo-de-talleres",
+  "version": "1.0.0",
+  "description": "para talleres de algoritmos y programacion 3 - UCAB",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc && node build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HappyGick/codigo-de-talleres.git"
+  },
+  "author": "Eduardo García",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HappyGick/codigo-de-talleres/issues"
+  },
+  "homepage": "https://github.com/HappyGick/codigo-de-talleres#readme"
+}
